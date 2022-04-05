@@ -1,1 +1,1 @@
-# Wine Quality Prediction Using Machine Learning
+# Machine Learning Projects 
